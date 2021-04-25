@@ -123,7 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a0813991d784af499cdd6ccd3aac477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pourThreshold: 55
-  origin: {fileID: 530155297}
-  streamPrefab: {fileID: 5238570228697279498, guid: 687fe5b6c1388c34882009636030b3c7,
-    type: 3}
+  pourThreshold: 45
+  origin: {fileID: 0}
+  streamPrefab: {fileID: 0}
+  s: {fileID: 0}
